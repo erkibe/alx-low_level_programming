@@ -17,7 +17,9 @@ int main(void)
 							{
 
 							for
-							(j = x; j < 58; j++)
+							(j = x;
+							 j < 58;
+							 j++)
 
 						{
 																		if
