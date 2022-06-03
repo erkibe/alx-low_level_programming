@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* main - print if de last digit of n is greater than 5, less than 6 or is zero
-* Return: 0
-**/
+ *  * main - print if de last digit of n is greater than 5, less than 6 or is zero
+ *   * Return: 0
+ *    */
 int main(void)
 {
 		int n;
@@ -15,16 +15,14 @@ int main(void)
 
 						last = n % 10;
 
-			if (last > 5)
+							if (last > 5)
 									{
 												printf("Last digit of %d is %d and is greater than 5\n", n, last);
-			} else if (last == 0)
+													} else if (last == 0)
 															{
 																		printf("Last digit of %d is %d and is 0\n", n, last);
-			
-							} else
-								
-							{
+																			} else
+																					{
 																								printf("Last digit of %d is %d and is less than 6 and not 0\n", n, last);
 																									}
 
