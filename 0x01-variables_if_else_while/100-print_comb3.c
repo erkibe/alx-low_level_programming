@@ -11,10 +11,13 @@ int main(void)
 
 					x = 48;
 						for
-						(i = 48; i < 58; i++)
-						{
-						for
-						(j = x; j < 58; j++)
+						(i = 48;
+						 i < 58;
+						 i++)
+							{
+
+							for
+							(j = x; j < 58; j++)
 
 						{
 																		if
