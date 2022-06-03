@@ -7,7 +7,7 @@ int main(void)
 {
 		int num = 48;
 
-			do{
+			do {
 				putchar(num);
 				if
 				(num != 57)
