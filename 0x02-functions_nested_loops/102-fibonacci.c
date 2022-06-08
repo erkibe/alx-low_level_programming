@@ -18,10 +18,10 @@ int main(void)
 										i = j;
 											j = k;
 					printf("%lu", k);
-												
-					if	(count == 49)																	putchar('\n');																else																		{
-																								printf(", ");
-																							}
+					if	(count == 49)																	putchar('\n');																else																	
+					{																			printf(", ");
+
+					}
 																					}
 						return (0);
 }
