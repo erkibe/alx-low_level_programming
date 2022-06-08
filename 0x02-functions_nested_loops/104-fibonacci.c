@@ -34,8 +34,8 @@ int main(void)
 																				m = n;
 		n = p;																		i = j;
 		j = k;
-		if																			(p >= 100)
-																					printf("%lu%lu", k, p);
+		if																			(p >= 100)																	printf("%lu%lu", k, p);
+		
 		else
 																			printf("%lu0%lu", k, p);
 																			if
