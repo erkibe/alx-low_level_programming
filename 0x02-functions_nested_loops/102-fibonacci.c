@@ -22,7 +22,8 @@ int main(void)
 						(count == 49)
 
 							putchar('\n');
-					else																	
+					else
+					
 					{																			printf(", ");
 
 					}
