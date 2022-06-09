@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- *  * print_line - Prints a line of n _ character
- *   * @n: Long of the line
- *    *
- *     * Return: none
- *      */
+* print_line - Prints a line of n _ character
+* @n: Long of the line
+*
+* Return: none
+**/
 void print_line(int n)
 {
 		int i;
